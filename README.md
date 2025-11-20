@@ -6,10 +6,10 @@
   <a href="https://www.npmjs.com/package/waiju">
     <img src="https://img.shields.io/npm/v/waiju.svg?color=ff79c6&label=npm" alt="npm version">
   </a>
-  <a href="https://github.com/waiju-bot/waiju/actions">
+  <a href="https://github.com/iyuxo/waiju/actions">
     <img src="https://img.shields.io/github/actions/workflow/status/waiju-bot/waiju/ci.yml?label=CI&logo=github" alt="build status">
   </a>
-  <a href="https://github.com/waiju-bot/waiju/blob/main/LICENSE">
+  <a href="https://github.com/iyuxo/waiju/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-00bcd4.svg" alt="license">
   </a>
   <a href="#installation">
@@ -214,5 +214,6 @@ to reset everything.
 ## License
 
 MIT © Waiju Contributors
+
 
 
