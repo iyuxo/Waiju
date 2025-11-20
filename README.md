@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://placehold.co/900x220/111827/67e8f9?text=Waiju+Lavalink+Client" alt="Waiju Lavalink Client Banner" />
+  <img src="https://placehold.co/900x220/111827/67e8f9?text=Waiju" alt="Waiju Lavalink Client Banner" />
 </p>
 
 <p align="center">
@@ -17,10 +17,10 @@
   </a>
 </p>
 
-# Waiju Lavalink Client
+# Waiju
 
 **Waiju** is a powerful, drop-in Lavalink client for Discord bots. It ships as a
-single JavaScript file (`waiju.js`) yet still supports multi-node orchestration,
+single JavaScript file [(`WaijuClient.js`)]() yet still supports multi-node orchestration,
 rich events, queue utilities, advanced filters, and automatic recovery flows.
 
 ## Features
@@ -214,4 +214,5 @@ to reset everything.
 ## License
 
 MIT © Waiju Contributors
+
 
